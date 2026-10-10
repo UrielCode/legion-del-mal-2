@@ -5,6 +5,7 @@
 3. Thanos
 4. Magneto
 5. Darth Vader
+6. Darksaid
 
 # Notas
 
