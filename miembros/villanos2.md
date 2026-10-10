@@ -6,3 +6,5 @@
 4. Magneto
 5. Darth Vader
 6. Darksaid
+7. Harly Queen
+8. El  pingus 
