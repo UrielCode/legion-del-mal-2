@@ -1,3 +1,14 @@
+![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-blue)
+
+![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/UrielCode/legion-del-mal/ci.yml)
+![Release](https://img.shields.io/github/v/release/UrielCode/legion-del-mal-2)
+![Issues](https://img.shields.io/github/issues/UrielCode/legion-del-mal-2)
+![Último commit](https://img.shields.io/github/last-commit/UrielCode/legion-del-mal-2)
+![Licencia](https://img.shields.io/github/license/UrielCode/legion-del-mal-2)
+
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
