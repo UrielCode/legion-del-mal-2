@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/UrielCode/legion-del-mal-2)
 ![Issues](https://img.shields.io/github/issues/UrielCode/legion-del-mal-2)
 ![Último commit](https://img.shields.io/github/last-commit/UrielCode/legion-del-mal-2)
-![Licencia](https://img.shields.io/github/license/UrielCode/legion-del-mal-2)
+![Licencia](https://img.shields.io/github/license/UrielCode/legion-del-mal-2?cacheSeconds=60)
 
 
 # 🦹‍♂️ La Legión del Mal
