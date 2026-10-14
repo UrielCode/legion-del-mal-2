@@ -63,6 +63,8 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 🔬 **En desarrollo:** Satélite Congelador
 📋 **En planificación:** Proyecto Krypton (clonar a Superman)
 
+
+
 ## Enemigos principales
 
 La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedientes de inteligencia sobre cada uno están en la carpeta `/inteligencia`.
