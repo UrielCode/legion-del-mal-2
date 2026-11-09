@@ -88,3 +88,5 @@ _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será
 - **Discord**: legion.del.mal 
 - **Telegram**: @legiondelmal
 - **Teléfono de emergencia**: +1-800-LEGION
+
+
