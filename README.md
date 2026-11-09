@@ -10,6 +10,7 @@
 
 
 # 🦹‍♂️ La Legión del Mal desde local
+## Este es un grupo dedicado a aprender git y control de versiones, mientras nos divertimos con la temática de supervillanos. Aquí encontrarás planes, estrategias y misiones que nos ayudarán a dominar el mundo (o al menos a aprender git).
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
