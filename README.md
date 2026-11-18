@@ -9,17 +9,19 @@
 ![Licencia](https://img.shields.io/github/license/UrielCode/legion-del-mal-2?cacheSeconds=60)
 
 
-# 🦹‍♂️ La Legión del Mal desde local
+# 🦹‍♂️ La Legión del Mal desde local con nuevos cambios
 ## Este es un grupo dedicado a aprender git y control de versiones, mientras nos divertimos con la temática de supervillanos. Aquí encontrarás planes, estrategias y misiones que nos ayudarán a dominar el mundo (o al menos a aprender git).
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
-## ¿Quiénes somos?- Remotoy local
+## ¿Quiénes somos?- Remotoy local y con uevos cambios
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
+Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
+Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
-## Estructura de la organización!!
+## Estructura de la organización desde local!!
 
 ```
 📁 planes/          → Operaciones aprobadas por el Consejo
